@@ -32,4 +32,5 @@ else
     # Failed to fetch vault status.
     echo "UNKNOWN - Failed to fetch vault seal status"
     exit 3
-fi
+fi 
+
